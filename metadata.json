@@ -1,0 +1,5 @@
+{
+  "name": "Scan & Dine Lite",
+  "description": "A modern Restaurant QR Menu System where customers scan a table-specific QR code to view a digital menu and place orders. It includes a comprehensive admin and staff panel to manage menus, tables, and track live orders.",
+  "requestFramePermissions": []
+}
